@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "tarovue2demo",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
